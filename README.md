@@ -1,5 +1,8 @@
 Text Summarizer
+
+
 Overview
+
 Text Summarizer is a Python application designed to generate concise summaries from input text passages. It utilizes natural language processing (NLP) techniques to identify key sentences and extract important information from the input text.
 
 Functionality
